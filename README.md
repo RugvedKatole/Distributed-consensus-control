@@ -1,2 +1,2 @@
 # Distributed-consensus-control
-this project is underway fell free to browse through code
+this project is underway feel free to browse through code
