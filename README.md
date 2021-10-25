@@ -1,2 +1,2 @@
 # Distributed-consensus-control
-GUI simulation for distributed consensus control
+this project is underway fell free to browse through code
