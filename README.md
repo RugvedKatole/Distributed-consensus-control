@@ -1,2 +1,2 @@
 # Distributed-consensus-control
-this project is underway feel free to browse through code
+This project implements different consensus algorithms with different types of graphs using ODE45 function in matlab
